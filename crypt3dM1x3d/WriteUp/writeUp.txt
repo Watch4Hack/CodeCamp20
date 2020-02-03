@@ -14,5 +14,3 @@ Bastará con ir de nuevo a cybercheff o similar, seleccionar AES Decrypt e intro
 Una vez hecho esto podremos ver en el output la solucion;
 
 Confirmamos el despliegue del arma quimica, estan autorizados para lanzarla en Manhattan tras el exito de nuestra prueba. Codigo de activacion: C0r0n4_V1ruS
-
-
