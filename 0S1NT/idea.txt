@@ -7,4 +7,7 @@ Usando cupp (o cualquier otra herramienta de creacion de diccionarios) con las k
 de fuerza bruta para acceder al panel de administracion de la web corporativa (wordpress o similar).
 
 La flag para este reto sera la password de este usuario. 
+
+
+EDIT: Usar todo esto como material para el reto hablado con sempe, cuando se haya arreglado y adaptado a la nueva idea borramos esta entrada
  
