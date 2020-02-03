@@ -1,0 +1,13 @@
+Este reto será una primera parte de una cadena de retos.
+Se crearan perfiles falsos por las RRSS, en concreto twitter.
+Se creara una pagina web, "Trolltester, los mejores script kiddies a su servicio" en la que habran diferente trabajadores,
+de estos SOLO UNO sera desarrollador web, en la web se podria dejar alguna pista para intuir que ha sido creada por dicho desarrollador.
+Habra que ir a su perfil, el cual tendra unos cuantos twets, en los que la mayoria dejara patente su gusto por Iron Maiden y el juego de cartas Magic.
+Usando cupp (o cualquier otra herramienta de creacion de diccionarios) con las keywords: iron maiden y mtg se obtendra un diccionario para emplear en un ataque
+de fuerza bruta para acceder al panel de administracion de la web corporativa (wordpress o similar).
+
+La flag para este reto sera la password de este usuario. 
+
+
+EDIT: Usar todo esto como material para el reto hablado con sempe, cuando se haya arreglado y adaptado a la nueva idea borramos esta entrada
+ 
