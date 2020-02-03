@@ -1,0 +1,7 @@
+La agencia de la NSA ha estado registrando algunos movimientos sospechosos en china ultimamente. Tienen la sospecha de que planean algún ataque, pero no saben de que tipo ni donde sera. 
+Han sido capaces de recabar la siguiente información, pero no tienen claro que puede significar. Solo saben que el nombre de uno de los ficheros capturados no ha sido modificado.
+Nos han contactado para ver que podemos obtener, como hackers expertos esperamos lo mejor de vosotros.
+
+Hint 1 -> Los nombres de los archivos pueden ser muy significantes
+Hint 2 -> Si tienes los nombres de los archivos, piensa si hay algun tipo de criptografia que necesite de esas partes para su funcionamiento.
+Hint 3 -> AES es un cifrado muy usado.
