@@ -1,0 +1,4 @@
+Este reto se trata de hacer pensar al participante. A priori parece que ejecutando el python obtenemos la flag, obviamente no es asi.
+La foto esta puesta para despistar, ambos son rabbits hole, bastara con caer en analizar el fichero "thrash" y saber que buscamos;
+Comando: strings thrash | grep "flag"
+Resultado: flag{not_erything_seems_what_it_is}
