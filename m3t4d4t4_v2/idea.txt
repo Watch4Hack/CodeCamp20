@@ -1,0 +1,1 @@
+ahora que en los metadatos de una imagen haya una localizacion y eso en google maps sea la flag o similar
