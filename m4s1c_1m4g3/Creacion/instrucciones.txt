@@ -1,0 +1,4 @@
+Primero coger, hacer el texto que nos gustaria mostrar en una foto (por ejemplo guardarlo con paint).
+Despues transformarlo a bmp24 bits con el mismo paint. Una vez tenemos el bmp se ha hecho uso de un programa
+llamado coagula light, cargamos el fichero, invertimos colores, renderizamos el audio y lo guardamos como wav.
+El archivo resultante sera el que tendremos en la carpeta challange. 
