@@ -1,0 +1,5 @@
+Un cliente esta realmente preocupado. Cuando ha entrado a su pc ha encontrado un audio en el escritorio realmente preocupante, no sabe absolutamente nada sobre el. Esta dispuesto a pagarnos una buena suma si conseguimos averiguar algo.
+
+Hint 1 -> Cuando se trata con un archivo en concreto, hay que conocer que herramientas son adecuadas para su tratamiento.
+Hint 2 -> Audacity, spectrum y similares son muy usadas para analizar audios.
+Hint 3 -> Un analisis del espectro en ocasiones suele darnos lo que necesitamos. 
