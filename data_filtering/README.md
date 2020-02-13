@@ -13,6 +13,4 @@ Necesitamos que analices estos archivos y averigües si hay alguna evidencia de 
  - [w4h_wh_text_gladiator_600_200.png](w4h_wh_text_gladiator_600_200.png)
  - [w4h_wh_text_lock_600_200.png](w4h_wh_text_lock_600_200.png)
 
-
-### [**Creación**](creation/readme.md)
-### [**Resolucion**](resolution/readme.md)
+### [**Resolucion**](resolution/README.md)
