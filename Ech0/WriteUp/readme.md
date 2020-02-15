@@ -1,3 +1,4 @@
+## Solución
 Pasar de base64 a texto, coger la URL y descargar el fichero.
 Con john,hashcat o similar y el diccionario rockyou descomprirmir el fichero. (eb23isabeldeportugal es la contraseña)
 Paciencia, y a buscar en la traza.
