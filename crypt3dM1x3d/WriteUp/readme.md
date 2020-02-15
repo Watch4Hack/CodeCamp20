@@ -1,3 +1,4 @@
+## WriteUp
 1 - Entendiendo el nombre de los archivos.
 
 Como podemos observar y el enunciado nos dice, el nombre de los archivos esta encrypted a excepcion del iv.txt
